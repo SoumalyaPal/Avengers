@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Activity Lifecycle</string>
+    <string name="new_app_name">Avengers</string>
+    <string name="mobile_number">Enter Mobile Number</string>
+    <string name="password">Enter Password</string>
+    <string name="log_in">Log In</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="register_yourself">Register Yourself</string>
+    <string name="preference_file_name">Avengers Preferences</string>
+</resources>
